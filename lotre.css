@@ -8,4 +8,6 @@
 body{
     background-color: blue;
     text-decoration: mediumseagreen;
+    text-transform: capitalize;
+    text-decoration-color: olive;
 }
