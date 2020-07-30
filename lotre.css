@@ -1,0 +1,11 @@
+#texte{
+    text-align: center;
+    color: greenyellow;
+    border-bottom: 1px solid black;
+    text-transform: uppercase;
+}
+
+body{
+    background-color: blue;
+    text-decoration: mediumseagreen;
+}
